@@ -5,3 +5,4 @@
 5. Enter payment method and select delivery or pickup and time.
 6. Order.
 7. Enjoy.
+8. Put leftovers in fridge for later.
