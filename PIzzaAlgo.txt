@@ -1,0 +1,7 @@
+1. Google "We The Pizza"
+2. Select pizza type.
+3. Add to cart.
+4. Go to cart, enter promo code if you have one.
+5. Enter payment method and select delivery or pickup and time.
+6. Order.
+7. Enjoy.
